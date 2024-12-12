@@ -55,3 +55,14 @@ translate==3.6.1
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
+
+pypdf2~=3.0.1
+langchain~=0.3.11
+langchain-openai~=0.2.12
+langchain-community~=0.3.11
+
+transformers==4.30.0
+torch==2.2.0
+tensorflow==2.15.0
+scikit-learn==1.2.2
+numpy==1.23.5
